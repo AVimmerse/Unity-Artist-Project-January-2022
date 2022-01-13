@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7536c11ac24b7b84f8635fd814937074
+guid: dc3148eda004a4448bdc5771a358db54
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -64,21 +64,21 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bronze
-    second: {fileID: 2100000, guid: 1550018de9db57b48bc82e9ae4e34054, type: 2}
+    second: {fileID: 2100000, guid: 2ba9850a0442220489bf39e37eb319e5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: GraniteSlab
-    second: {fileID: 2100000, guid: bb647b74e19b68945b9ce887c65832a1, type: 2}
+    second: {fileID: 2100000, guid: e8fb926b0553b294f8e139134014ff0b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Walnut_Wood
-    second: {fileID: 2100000, guid: db2192e6b6b1c0846800b214287fd918, type: 2}
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
-    materialSearch: 1
+    materialSearch: 0
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -112,7 +112,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -129,7 +129,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -148,7 +148,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

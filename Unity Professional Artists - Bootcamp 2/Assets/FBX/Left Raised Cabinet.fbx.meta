@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1f70873f57ea914ea6894cc101cb5de
+guid: 036b2428542ac6b44a6eb980b77f2217
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -38,15 +38,15 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bronze_Rubbed
-    second: {fileID: 2100000, guid: a78ec93ecddb51a4f8497c4445bb7bab, type: 2}
+    second: {fileID: 2100000, guid: 72877488eb9cdd749846a67488b3e16b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Walnut_Wood
-    second: {fileID: 2100000, guid: db2192e6b6b1c0846800b214287fd918, type: 2}
+    second: {fileID: 2100000, guid: 6074f3d8c6a923345a780f1e1d0e9983, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -81,7 +81,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -98,7 +98,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -117,7 +117,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

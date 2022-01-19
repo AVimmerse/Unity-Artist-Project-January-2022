@@ -13,6 +13,9 @@ TagManager:
   - Pulls
   - Appliance
   - Drawers
+  - Granite
+  - Wood
+  - Metal
   layers:
   - Default
   - TransparentFX

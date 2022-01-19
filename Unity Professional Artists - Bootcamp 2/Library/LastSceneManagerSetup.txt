@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Kitchen Configurator.unity
+- path: Assets/Scenes/XR_ScenewithUI&Scripts.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
